@@ -1,0 +1,7 @@
+Django==1.11.29
+get==0.0.0
+post==0.0.0
+PyMySQL==0.10.0
+pytz==2020.1
+query-string==0.0.0
+request==0.0.0
