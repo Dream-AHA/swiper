@@ -1,4 +1,4 @@
-Django==1.11.29
+Django==2.2.24
 get==0.0.0
 post==0.0.0
 PyMySQL==0.10.0
